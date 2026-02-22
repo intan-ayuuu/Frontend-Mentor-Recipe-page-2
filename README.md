@@ -6,8 +6,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/intan-ayuuu/Frontend-Mentor-Recipe-page-2.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/intan-ayuuu/Frontend-Mentor-Recipe-page-2.git)
+- Live Site URL:(https://intan-ayuuu.github.io/Frontend-Mentor-Recipe-page-2/)
 
 ## My process
 
